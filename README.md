@@ -1,2 +1,4 @@
-# PowerShell_MiscScripts
-All of my Powershell scripts for System Administration
+# PowerShell_ScriptsAndModules
+### A collection of handy Powershell scripts and modules I wrote for various projects
+
+### Status: Updated semi-regularly
