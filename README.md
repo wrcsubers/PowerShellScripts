@@ -1,4 +1,2 @@
 # PowerShell_ScriptsAndModules
-### A collection of handy Powershell scripts and modules I wrote for various projects
-
-### Status: Updated semi-regularly
+### A collection of simple, but handy, Powershell scripts and modules I wrote for various projects
