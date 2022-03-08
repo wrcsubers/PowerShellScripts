@@ -1,5 +1,4 @@
 # PowerShell_ScriptsAndModules
-##### A collection of simple Powershell scripts I wrote for various projects
 
 ### HTML Generation
 * Generate HTML Lists from arrays of strings - [Make-HTMLList](HTML/Make-HTMLList.ps1)
